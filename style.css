@@ -6,10 +6,11 @@ Common
 
 body{
     font-family: monospace,sans-serif ;
+    background-color: bisque;
 }
 
 .font-primary{
-    color: rgb(8, 200, 214);
+    color: rgb(172, 19, 95);
 }
 
 .title-icon{
@@ -27,7 +28,7 @@ h2{
     margin-bottom: 20px;
 }
 a.font-black{
-    color: #000!important;
+    color: #070707 !important;
 }
 /****
 About
@@ -45,18 +46,18 @@ About
 }
 
 #about .name {
-    font-size: 19px;
+    font-size: 20px;
 }
 
 #about .vocation {
-    font-size: 17px;
-    color: #bbbbc2;
+    font-size: 18px;
+    color: #b61076;
     margin-bottom: 10px;
 }
 
 #about .skills{
     font-size: 14px;
-    color:rgb(22, 6, 167);
+    color:rgb(136, 15, 136);
     margin-bottom: 10px;
 }
 
@@ -70,7 +71,7 @@ About
 }
 
 #about .icons a{
-    color: #050505;
+    color: #bb0b6c;
 }
 
 /**************
